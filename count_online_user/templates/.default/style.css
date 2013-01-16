@@ -1,0 +1,33 @@
+.li_1 {
+	padding-left: 20px;
+	background-image: url('images/group-3.gif');
+	background-repeat: no-repeat;
+	background-position: center left;
+	border: 0px;
+	margin: 0px;
+	outline: none;
+	text-decoration: none;	
+}
+
+.li_2 {
+	padding-left: 12px; 
+	background-image: url('images/li.gif');
+	background-repeat: no-repeat;
+	background-position: center left;
+	border: 0px;
+	margin: 0px;
+	outline: none;
+	text-decoration: none;	
+}
+
+.moduletable {
+    font-size: 100%;
+	margin: 0px 0px 0px 0px;
+    padding: 5px;
+    text-align: left;
+    border: 1px solid #c8c8c8;
+	background-color: #FFFFFF;
+	color: #333333;
+	font-size: 13px;
+	width: 150px;
+}
