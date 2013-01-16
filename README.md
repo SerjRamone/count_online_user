@@ -6,7 +6,7 @@ count_online_user
 Использование:
 <?
 	$APPLICATION->IncludeComponent(
-		"fusion:count_online_user",
+		"fusion:count_online_user", //fusion - directory-namespace for component
 		"",
 		Array(),
 	false
