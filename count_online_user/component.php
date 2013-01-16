@@ -7,9 +7,6 @@ if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true) die();
 		$res = CIMContactList::GetStatus();
 		$arResult['ONLINE_USERS'] = $res['users'];
 	}
-
-
-
+	
 $this->IncludeComponentTemplate();
-
 ?>
