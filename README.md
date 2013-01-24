@@ -12,3 +12,14 @@ count_online_user
 	false
 	);
 ?>
+
+
+Компонент вывода списка пользователей онлайн:
+<?$APPLICATION->IncludeComponent(
+	"fusion:count_online_user_list",
+	"",
+	Array(
+	),
+false
+);
+?>
