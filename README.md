@@ -3,7 +3,7 @@ count_online_user
 Компонент выводит количество пользователей Online и текущую дату.
 Для работы компонента необходим установленный модуль "Веб мессенджер (im)"
 
-Использование::
+**Использование:**
 <?
 	$APPLICATION->IncludeComponent(
 		"fusion:count_online_user", //fusion - directory-namespace for component
@@ -14,7 +14,7 @@ count_online_user
 ?>
 
 
-Компонент вывода списка пользователей онлайн:
+**Компонент вывода списка пользователей онлайн:**
 <?$APPLICATION->IncludeComponent(
 	"fusion:count_online_user_list",
 	"",
