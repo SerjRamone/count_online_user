@@ -22,5 +22,5 @@ count_online_user
 		Array(
 		),
 	false
-);
+	);
 ```
