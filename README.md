@@ -5,6 +5,7 @@ count_online_user
 
 **Использование:**
 ```php
+	//вызов компонента
 	$APPLICATION->IncludeComponent(
 		"fusion:count_online_user", //fusion - directory-namespace for component
 		"",
