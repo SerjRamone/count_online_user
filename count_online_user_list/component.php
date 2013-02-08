@@ -1,5 +1,5 @@
 <?
-/*
+/**
  * Sergey Greznov, Fusion LLC
  *
  */
